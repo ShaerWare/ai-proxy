@@ -1,10 +1,14 @@
-# 🤖 AI Proxy
+# 🚀 AI Proxy: Единый шлюз для ваших LLM
 
-[![Build Status](https://github.com/ShaerWare/ai-proxy/actions/workflows/tests.yml/badge.svg)](https://github.com/ShaerWare/ai-proxy/actions)
-[![Latest Stable Version](https://img.shields.io/packagist/v/shaerware/ai-proxy)](https://packagist.org/packages/shaerware/ai-proxy)
-[![Total Downloads](https://img.shields.io/packagist/dt/shaerware/ai-proxy)](https://packagist.org/packages/shaerware/ai-proxy)
-[![License](https://img.shields.io/github/license/ShaerWare/ai-proxy)](https://github.com/ShaerWare/ai-proxy/blob/main/LICENSE)
-[![PHP Version Require](https://img.shields.io/packagist/php/shaerware/ai-proxy)](https://packagist.org/packages/shaerware/ai-proxy)
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-proxy?style=for-the-badge&logo=github)](https://github.com/ShaerWare/ai-proxy/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/ShaerWare/ai-proxy?style=for-the-badge&logo=github)](https://github.com/ShaerWare/ai-proxy/issues)
+[![License: MIT](https://img.shields.io/github/license/ShaerWare/ai-proxy?style=for-the-badge)](https://github.com/ShaerWare/ai-proxy/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ShaerWare/ai-proxy?style=for-the-badge&logo=git)](https://github.com/ShaerWare/ai-proxy/commits/main)
+
+</div>
 
 > **Примечание:** Значки для Packagist (версия, загрузки, версия PHP) заработают после публикации вашего пакета на [Packagist.org](https://packagist.org/). Значок "Build Status" заработает после добавления GitHub Actions workflow с именем `tests.yml`.
 
