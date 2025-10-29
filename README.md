@@ -2,14 +2,24 @@
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-proxy?style=for-the-badge&logo=github)(https://github.com/ShaerWare/ai-proxy/stargazers)
-![GitHub Issues](https://img.shields.io/github/issues/ShaerWare/ai-proxy?style=for-the-badge&logo=github)(https://github.com/ShaerWare/ai-proxy/issues)
-![License: MIT](https://img.shields.io/github/license/ShaerWare/ai-proxy?style=for-the-badge)(https://github.com/ShaerWare/ai-proxy/blob/main/LICENSE)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)(http://makeapullrequest.com)
-![GitHub last commit](https://img.shields.io/github/last-commit/ShaerWare/ai-proxy?style=for-the-badge&logo=git)(https://github.com/ShaerWare/ai-proxy/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-proxy?style=for-the-badge&logo=github)](https://github.com/ShaerWare/ai-proxy/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/ShaerWare/ai-proxy?style=for-the-badge&logo=github)](https://github.com/ShaerWare/ai-proxy/issues)
+[![License: MIT](https://img.shields.io/github/license/ShaerWare/ai-proxy?style=for-the-badge)](https://github.com/ShaerWare/ai-proxy/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ShaerWare/ai-proxy?style=for-the-badge&logo=git)](https://github.com/ShaerWare/ai-proxy/commits/main)
 
 </div>
+![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-development-partner?style=social)
+![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Awesome](https://img.shields.io/badge/Awesome-%F0%9F%8C%9F-red.svg)
+![Version](https://img.shields.io/badge/version-4.1-blue.svg)
 
+**Системный промпт для превращения Claude/GPT в полноценного технического и бизнес-партнёра по разработке.**
+
+[Особенности](#-особенности) • [Быстрый старт](#-быстрый-старт) • [Команды в действии](#-ключевые-команды-в-действии) • [Contributing](#-contributing) • [Roadmap](#-roadmap)
+
+---
 > **Примечание:** Надежный прокси-сервер на Laravel, предназначенный для оптимизации и управления взаимодействием с различными API-сервисами искусственного интеллекта.
 
 ---
