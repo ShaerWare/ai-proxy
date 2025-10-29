@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-proxy?style=for-the-badge&logo=github)](https://github.com/ShaerWare/ai-proxy/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/ShaerWare/ai-proxy?style=for-the-badge&logo=github)](https://github.com/ShaerWare/ai-proxy/issues)
-[![License: MIT](https://img.shields.io/github/license/ShaerWare/ai-proxy?style=for-the-badge)](https://github.com/ShaerWare/ai-proxy/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ShaerWare/ai-proxy?style=for-the-badge&logo=git)](https://github.com/ShaerWare/ai-proxy/commits/main)
+![GitHub Stars](https://img.shields.io/github/stars/ShaerWare/ai-proxy?style=for-the-badge&logo=github)(https://github.com/ShaerWare/ai-proxy/stargazers)
+![GitHub Issues](https://img.shields.io/github/issues/ShaerWare/ai-proxy?style=for-the-badge&logo=github)(https://github.com/ShaerWare/ai-proxy/issues)
+![License: MIT](https://img.shields.io/github/license/ShaerWare/ai-proxy?style=for-the-badge)(https://github.com/ShaerWare/ai-proxy/blob/main/LICENSE)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)(http://makeapullrequest.com)
+![GitHub last commit](https://img.shields.io/github/last-commit/ShaerWare/ai-proxy?style=for-the-badge&logo=git)(https://github.com/ShaerWare/ai-proxy/commits/main)
 
 </div>
 
