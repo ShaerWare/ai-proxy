@@ -1,5 +1,5 @@
 # Stage 1: Установка зависимостей
-FROM composer:2 as vendor
+FROM composer:2 AS vendor
 
 WORKDIR /app
 COPY database/ database/
@@ -21,13 +21,17 @@ RUN apk add --no-cache \
     nginx \
     supervisor \
     libzip-dev \
-    postgresql-dev \ # Для работы с PostgreSQL
+    # Для работы с PostgreSQL
+    postgresql-dev \
     oniguruma-dev \
-    libxml2-dev
+    libxml2-dev \
+    # >>> ИСПРАВЛЕНИЕ: Добавляем заголовки ядра Linux для компиляции расширения sockets
+    linux-headers
 
 # Устанавливаем расширения PHP
 RUN docker-php-ext-install \
-    pdo_pgsql \ # Драйвер PostgreSQL
+    # Драйвер PostgreSQL
+    pdo_pgsql \
     pgsql \
     zip \
     mbstring \
@@ -42,7 +46,7 @@ WORKDIR /var/www
 COPY . .
 
 # Копируем установленные зависимости из первого этапа
-COPY --from=vendor /app/vendor/ /var/www/vendor/
+COPY --from=vendor /app/vendor /var/www/vendor
 
 # Настраиваем права доступа для Laravel
 RUN chown -R www-data:www-data /var/www/storage /var/www/bootstrap/cache && \
